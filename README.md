@@ -1,13 +1,13 @@
-## spfx-api-scopes-tutorial
+## Microsoft Graph API Example
 
-This is where you include your WebPart documentation.
+A SPFX Webpart for creating events in outlook from a Sharepoint list.
 
 ### Building the code
 
 ```bash
 git clone the repo
-npm i
-npm i -g gulp
+npm install
+npm install -g gulp
 gulp
 ```
 
@@ -19,8 +19,8 @@ This package produces the following:
 
 ### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+gulp clean
+gulp test
+gulp serve
+gulp bundle
+gulp package-solution
